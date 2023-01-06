@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@codahq/packs-sdk": "^1.2.3"
+    "@codahq/packs-sdk": "^1.2.3",
+    "nanoid": "^4.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",
